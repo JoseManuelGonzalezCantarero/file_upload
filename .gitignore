@@ -17,3 +17,6 @@
 .php-version
 /public/uploads/
 .idea
+###> liip/imagine-bundle ###
+/public/media/cache/
+###< liip/imagine-bundle ###
